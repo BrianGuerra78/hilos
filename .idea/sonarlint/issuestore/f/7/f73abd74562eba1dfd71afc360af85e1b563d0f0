@@ -1,0 +1,14 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º«ô
+›
+java:S1130"~Remove the declaration of thrown exception 'java.util.concurrent.TimeoutException', as it cannot be thrown from method's body.(Êšçë8›ìÕíÇ0
+M	java:S106
+"9Replace this use of System.out or System.err by a logger.(Î½½M
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ıÌí ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Û’ÿˆÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©—¸üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ëó¥§úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÆ£õûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(šâùƒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÀîŸ

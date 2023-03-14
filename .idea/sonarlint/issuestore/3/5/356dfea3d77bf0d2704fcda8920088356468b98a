@@ -1,0 +1,11 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(£Ã
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÖÿå
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Îùã™úÿÿÿÿ8¹¢ÜéÇ0
+T	java:S106$"9Replace this use of System.out or System.err by a logger.(ÁˆÛ8Ø‰êÇ0
+X	java:S125#"<This block of commented-out lines of code should be removed.(Ù„™¾8ŠóåéÇ0
+m
+java:S1128"KRemove this unused import 'org.bguerra.hilos.ejemplos.runnable.ViajeTarea'.(Éë¤Åşÿÿÿÿ8Â¤şéÇ0

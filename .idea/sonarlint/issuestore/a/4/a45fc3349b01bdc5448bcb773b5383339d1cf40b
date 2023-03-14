@@ -1,0 +1,25 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º«ô
+V
+java:S1854";Remove this useless assignment to local variable "futuro2".(Â°Õıÿÿÿÿ
+]
+java:S1854";Remove this useless assignment to local variable "futuro1".(çÑ…ûøÿÿÿÿ8™ŞıŠÈ0
+
+java:S1130
+"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Êšçë
+—
+java:S1130
+"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(Êšçë
+”
+java:S1130
+"~Remove the declaration of thrown exception 'java.util.concurrent.TimeoutException', as it cannot be thrown from method's body.(Êšçë
+V	java:S125"<This block of commented-out lines of code should be removed.(şíÊøûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ıãô”
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°µ¼Óıÿÿÿÿ
+G
+java:S1481",Remove this unused "futuro1" local variable.(çÑ…ûøÿÿÿÿ
+N
+java:S1481",Remove this unused "futuro2" local variable.(Â°Õıÿÿÿÿ8êòıŠÈ0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ıãô”
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°µ¼Óıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©—¸üÿÿÿÿ

@@ -1,0 +1,28 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a
+java:S1192,"KDefine a constant instead of duplicating this literal "En proceso" 3 times.(˜¾äï
+_
+java:S1192,"IDefine a constant instead of duplicating this literal "Finalizo" 3 times.(˜¾äï
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º«ôŽ
+”
+java:S1130"~Remove the declaration of thrown exception 'java.util.concurrent.TimeoutException', as it cannot be thrown from method's body.(Êšçë
+V	java:S125"<This block of commented-out lines of code should be removed.(þíÊøûÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ýãô”
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°µ¼Óýÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Î½½M
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ýÌí ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Û’ÿˆÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ß‹ž»ÿÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ýãô”
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(°µ¼Óýÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(©—¸üÿÿÿÿ
+V	java:S125)"<This block of commented-out lines of code should be removed.(Ëó¥§úÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(„šÎóûÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(Â¦òû
+M	java:S1062"9Replace this use of System.out or System.err by a logger.(³Ý‘$
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(½ó›Œûÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(×Š¢¿
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(¢ã×ûÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(¾—‰÷úÿÿÿÿ
